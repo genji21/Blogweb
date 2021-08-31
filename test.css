@@ -1,0 +1,18 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+}
+
+.app{
+    width: 100vw;
+    /* height: 80vh; */
+    min-height: 600px;
+    /* max-height: 600px; */
+    /* padding: 200px; */
+    background: url(./images/bg-pattern-intro.svg), hsl(359, 100%, 69%);
+    background-repeat: no-repeat;
+    border-bottom-left-radius: 100px;
+    background-position: -506px -1264px;
+}
